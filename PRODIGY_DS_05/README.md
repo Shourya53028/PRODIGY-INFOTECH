@@ -1,6 +1,6 @@
 # README: Prodigy Infotech Task 5
 
-## Author: MD EHTASAM FAIZI
+## Author: Shourya Pratap Singh
 
 ## Batch: September
 
